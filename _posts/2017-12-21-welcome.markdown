@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2017-12-21 22:15:40 +0300
+img: robot.png
+description: Welcome to my personal page
+categories: welcome
+---
+In this page I will write about my expirences in the test automation world.
+I will show how to start Service, Android, iOS, Angular and other automation projects.
